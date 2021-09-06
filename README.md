@@ -2,4 +2,4 @@
 
 hi Humans!
 
-Let's star the journey!
+Let's start the journey!
